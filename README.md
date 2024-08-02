@@ -55,3 +55,4 @@ git clone https://github.com/nehagarg702/EventsManagemnetApp.git
 - **Jetpack Compose**: Provides a modern toolkit for building native UIs with a declarative approach.
 - **Search Feature**: Allows users to search for events by name and description using a search bar integrated into the main event list.
 - **Coroutines for Background Tasks**: Utilized to handle asynchronous operations and background tasks efficiently, ensuring smooth performance and responsiveness of the app.
+- **Dummy Participant List**: Includes a pre-populated list of 20 dummy participants. Users can select participants for events from this list only.
