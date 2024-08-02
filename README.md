@@ -53,5 +53,5 @@ git clone https://github.com/nehagarg702/EventsManagemnetApp.git
 - **Room Database**: Used for local data storage. Entities include `Event`, `Participant`, and `EventParticipant` to manage events and participants effectively.
 - **Dependency Injection with Koin**: Simplifies the injection of dependencies and reduces boilerplate code.
 - **Jetpack Compose**: Provides a modern toolkit for building native UIs with a declarative approach.
-- **Search Feature**: Allows users to search for events by name using a search bar integrated into the main event list.
+- **Search Feature**: Allows users to search for events by name and description using a search bar integrated into the main event list.
 - **Coroutines for Background Tasks**: Utilized to handle asynchronous operations and background tasks efficiently, ensuring smooth performance and responsiveness of the app.
